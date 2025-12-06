@@ -6,7 +6,7 @@
 
 ## 🎯 Objetivo
 
-Ingressar como **Estagiário ou Analista Júnior em Cibersegurança**, atuando com:
+Ingressar como **Analista Júnior em Cibersegurança**, atuando com:
 - Segurança de Aplicações (AppSec)
 - Testes de Intrusão (Pentest)
 - Segurança em APIs
