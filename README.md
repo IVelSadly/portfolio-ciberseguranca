@@ -1,3 +1,24 @@
+# ⚠️ Project Archived
+
+This repository represents an earlier stage of my learning journey in cybersecurity.
+
+My current and actively maintained work, focused on **SOC and Blue Team fundamentals**,
+is available here:
+
+👉 https://github.com/IVelSadly/soc-learning-notes
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🛡️ Portfólio de Cibersegurança
 
 🎓 Estudante de Tecnologia da Informação focado em Cibersegurança, com prática em testes de segurança de aplicações web e APIs em ambientes controlados, utilizando metodologias baseadas no OWASP Top 10. Atualmente em constante evolução em AppSec, automação com Python e conceitos de Secure SDLC.
